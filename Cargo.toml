@@ -1,0 +1,13 @@
+[package]
+name = "text_maklet"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arboard = "3.2.0"
+image = "0.24.7"
+leptess = "0.14.0"
+global-hotkey = "0.2.4"
+winit = "0.28.6"
